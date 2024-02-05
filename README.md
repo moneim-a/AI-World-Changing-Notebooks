@@ -36,4 +36,4 @@ To get started, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-notebooks.git
+   git clone https://github.com/moneim-a/AI-World-Changing-Notebooks.git
